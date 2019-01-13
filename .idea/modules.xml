@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/gitSvn/gitSvn.iml" filepath="$PROJECT_DIR$/gitSvn/gitSvn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nagi.iml" filepath="$PROJECT_DIR$/nagi.iml" />
+    </modules>
+  </component>
+</project>
